@@ -1,133 +1,39 @@
-# 🎓 M_School Project - Modern School Web Interface
+# UGENCY — Le service, au plus près des personnes
 
-## 📌 Description
+UGENCY est un écosystème de services et de coordination conçu autour des citoyens, des professionnels et des équipes opérationnelles.
 
-**M_School Project** est une interface web moderne conçue pour représenter un système scolaire ou une plateforme éducative en ligne.
+> Une technologie discrète. Un service profondément humain.
 
-Ce projet met en avant une expérience utilisateur fluide, un design propre et une structure web optimisée pour présenter des informations scolaires de manière claire et professionnelle.
+## Espaces produit
+- **Citoyen** : découverte des services, demandes, suivi, rendez-vous et assistance.
+- **Professionnel** : profil, disponibilités, sollicitations et agenda.
+- **Opérations** : orientation, affectation, communication et suivi des interventions.
+- **Administration** : comptes, rôles, référentiels, configuration et audit.
 
----
+## Dépôt
+La page publique actuelle est une première fondation éditoriale et responsive. Les espaces authentifiés et les services API sont un périmètre distinct, en cours de construction et de validation.
 
-## 🚀 Démo en ligne
+- index.html — page d'entrée publique
+- style.css — système visuel responsive
+- assets/brand/ — emblème vectoriel original
+- docs/ — direction de marque, produit et architecture
+- backend/ — fondations de données et contrats de services
 
-👉 https://meresathindehou-prog.github.io/M_school-project/
+## Déploiement public
+https://meresathindehou-prog.github.io/M_school-project/
 
----
+## Références techniques prévues
+- Interface applicative : Next.js / React / TypeScript
+- API métier : NestJS / TypeScript
+- Données : PostgreSQL + PostGIS lorsque la dimension géographique est requise
+- Cache / tâches asynchrones : Redis
+- Conteneurisation : Docker
+- Tests : unitaires, intégration, contrats et parcours critiques
 
-## 🎯 Objectifs du projet
+Les versions et commandes d'installation seront figées dans les manifestes applicatifs au moment de la création effective des applications. Aucun secret ne doit être commité.
 
-* Concevoir une interface éducative moderne
-* Améliorer l’expérience utilisateur (UX/UI)
-* Mettre en pratique les technologies web fondamentales
-* Créer un projet réutilisable pour des solutions réelles (écoles, centres de formation, plateformes éducatives)
+## État de réalisation
+Consulter la direction de marque et la fondation technique dans docs/.
 
----
-
-## 💡 Fonctionnalités principales
-
-* 📚 Présentation d’un environnement scolaire
-* 🧭 Navigation intuitive
-* 🎨 Interface moderne et responsive
-* ⚡ Chargement rapide (site statique)
-* 💻 Compatible mobile, tablette et desktop
-
----
-
-## 🛠️ Technologies utilisées
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
-
----
-
-## 📁 Structure du projet
-
-```
-M_school-project/
-│── index.html
-│── style.css
-│── assets/
-```
-
----
-
-## 🎨 Aperçu du projet
-
-Ajoutez ici une capture d’écran :
-
-```
-assets/screenshot.png
-```
-
----
-
-## 💼 Cas d’utilisation
-
-Ce projet peut être utilisé pour :
-
-* Sites d’écoles ou universités
-* Plateformes e-learning
-* Tableaux de bord éducatifs
-* Présentations institutionnelles
-
----
-
-## 🚀 Installation & utilisation
-
-1. Cloner le projet
-
-```bash
-git clone https://github.com/meresathindehou-prog/M_school-project.git
-```
-
-2. Ouvrir le fichier `index.html` dans un navigateur
-
----
-
-## 📈 Améliorations futures
-
-* 🔐 Système d’authentification
-* 💳 Intégration de paiement (frais scolaires)
-* 📊 Dashboard interactif
-* 🌐 Backend (Supabase / Node.js)
-* 📱 Version mobile app
-
----
-
-## 👨‍💻 Auteur
-
-**Mérès ATHINDEHOU**
-
-📧 Email : [meresathindehou@gmail.com](mailto:meresathindehou@gmail.com)
-📱 Téléphone : 0162051512
-
----
-
-## 🌟 À propos
-
-Ce projet fait partie de mon parcours en développement web et démontre ma capacité à concevoir des interfaces modernes prêtes à évoluer vers des applications professionnelles.
-
----
-
-## ⭐ Support
-
-Si ce projet vous plaît, n'hésitez pas à :
-
-* ⭐ Laisser une étoile sur GitHub
-* 🔁 Partager
-* 💬 Me contacter pour une collaboration
-
----
-
-## 📢 Disponibilité
-
-Je suis disponible pour :
-
-* Création de sites web
-* Interfaces modernes (UI/UX)
-* Développement de projets personnalisés
-
----
-
-🔥 **Construisons des solutions digitales modernes ensemble.**
+## Historique
+Le projet scolaire d'origine a été conservé sur la branche archive/m-school-project-before-ugency avant la réorientation du dépôt.
