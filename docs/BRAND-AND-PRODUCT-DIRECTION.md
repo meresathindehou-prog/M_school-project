@@ -40,3 +40,9 @@ Les recherches Post Design ont surtout conforté trois principes : une identité
 
 ## Périmètre de cette première livraison
 Cette étape pose les fondations de marque et la page d'entrée publique. Elle ne prétend pas encore fournir les services authentifiés, l'API, la base de données ni les intégrations opérationnelles : ces couches doivent être implémentées et testées avant toute mise en production.
+
+## Références de veille — Post Design
+- [Harvey — interface unmistakable](https://posts.design/we-designed-the-interface-to-be-unmistakably-harvey-2026-10-26) : cohérence, précision, hiérarchie et réduction du superflu.
+- [Étude autour de la refonte Stack Overflow par Koto](https://posts.design/fabio-abduzeedo-koto-s-stack-overflow-rebrand-casts-2026-10-03) : une marque qui s'appuie sur une valeur humaine et une culture de contribution, plutôt que sur un simple effet visuel.
+
+Ces références servent à nourrir une réflexion de conception. Aucun écran, signe, texte ou élément propriétaire n'est repris tel quel.
